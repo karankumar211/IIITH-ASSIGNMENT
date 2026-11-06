@@ -1,0 +1,2 @@
+-r English/requirements.txt
+-r Telugu/requirements.txt
